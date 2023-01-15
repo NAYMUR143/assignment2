@@ -378,6 +378,9 @@ footer p {
   }
 }
 @media screen and (max-width: 576px) {
+  .feature_txt {
+  padding: 20px;
+}
   nav ul li {
     display: block;
   }
